@@ -16,7 +16,8 @@ public class Count
     {
         int n = getInt("Please enter an integer value greater than or equal to 0");
         
-        System.out.println("Should count down to 1");
+        System.out.println("Should count down to 1 ");
+        Sysytem.out.println("");
         countDown(n);
         
         System.out.println();
